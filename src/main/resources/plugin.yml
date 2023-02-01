@@ -1,0 +1,7 @@
+name: KBFix
+version: '${project.version}'
+main: net.prolieum.kbfix.KBFix
+api-version: 1.19
+prefix: KBFix
+authors: [ TheDeafCreeper ]
+description: Fixed Knockback
